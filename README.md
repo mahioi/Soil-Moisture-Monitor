@@ -33,4 +33,4 @@ Wiring
 
 Code
 
-See [`SoilMoistureMonitor.ino`](./SoilMoistureMonitor.ino) for the full sketch.
+See [`SoilMoistureMonitor.ino`](./SoilMoistureMonitor.ino)
